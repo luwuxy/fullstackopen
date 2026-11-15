@@ -28,8 +28,6 @@ const App = () => {
         }
       }),
     );
-
-    console.log(vote);
   };
 
   return (
